@@ -1,0 +1,6 @@
+/Users/yyuau/Research/alluxio-la/keyvalue/hadoop/src/main/java/alluxio/hadoop/mapreduce/KeyValueInputSplit.java
+/Users/yyuau/Research/alluxio-la/keyvalue/hadoop/src/main/java/alluxio/hadoop/mapreduce/KeyValueOutputCommitter.java
+/Users/yyuau/Research/alluxio-la/keyvalue/hadoop/src/main/java/alluxio/hadoop/mapreduce/KeyValueRecordWriter.java
+/Users/yyuau/Research/alluxio-la/keyvalue/hadoop/src/main/java/alluxio/hadoop/mapreduce/KeyValueRecordReader.java
+/Users/yyuau/Research/alluxio-la/keyvalue/hadoop/src/main/java/alluxio/hadoop/mapreduce/KeyValueInputFormat.java
+/Users/yyuau/Research/alluxio-la/keyvalue/hadoop/src/main/java/alluxio/hadoop/mapreduce/KeyValueOutputFormat.java

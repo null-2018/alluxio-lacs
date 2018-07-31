@@ -1,0 +1,36 @@
+2018-07-27 23:12:19,254 INFO  ConfigurationUtils - Configuration file /Users/anonymous/Research/alluxio-la/conf/alluxio-site.properties loaded.
+2018-07-27 23:12:19,272 INFO  ProcessUtils - Starting Alluxio Proxy.
+2018-07-27 23:12:19,432 INFO  log - Logging initialized @775ms
+2018-07-27 23:12:20,779 INFO  Server - jetty-9.2.z-SNAPSHOT
+2018-07-27 23:12:24,780 INFO  MetricsSystem - Starting sinks with config: {}.
+2018-07-27 23:12:25,174 INFO  ContextHandler - Started o.e.j.w.WebAppContext@3fc9504b{/,file:/Users/anonymous/Research/alluxio-la/core/server/common/src/main/webapp/,AVAILABLE}{/Users/anonymous/Research/alluxio-la/core/server/common/src/main/webapp}
+2018-07-27 23:12:25,179 INFO  ServerConnector - Started ServerConnector@32a68f4f{HTTP/1.1}{0.0.0.0:39999}
+2018-07-27 23:12:25,179 INFO  Server - Started @6522ms
+2018-07-27 23:12:25,179 INFO  WebServer - Alluxio Proxy Web service started @ /0.0.0.0:39999
+2018-07-28 15:06:05,090 INFO  ConfigurationUtils - Configuration file /Users/anonymous/Research/alluxio-la/conf/alluxio-site.properties loaded.
+2018-07-28 15:06:05,226 INFO  ProcessUtils - Starting Alluxio Proxy.
+2018-07-28 15:06:05,667 INFO  log - Logging initialized @1415ms
+2018-07-28 15:06:08,140 INFO  Server - jetty-9.2.z-SNAPSHOT
+2018-07-28 15:06:12,746 INFO  MetricsSystem - Starting sinks with config: {}.
+2018-07-28 15:06:12,779 INFO  ContextHandler - Started o.e.j.w.WebAppContext@3fc9504b{/,file:/Users/anonymous/Research/alluxio-la/core/server/common/src/main/webapp/,AVAILABLE}{/Users/anonymous/Research/alluxio-la/core/server/common/src/main/webapp}
+2018-07-28 15:06:12,786 INFO  ServerConnector - Started ServerConnector@1a3c299a{HTTP/1.1}{0.0.0.0:39999}
+2018-07-28 15:06:12,786 INFO  Server - Started @8534ms
+2018-07-28 15:06:12,786 INFO  WebServer - Alluxio Proxy Web service started @ /0.0.0.0:39999
+2018-07-28 15:17:40,847 INFO  ConfigurationUtils - Configuration file /Users/anonymous/Research/alluxio-la/conf/alluxio-site.properties loaded.
+2018-07-28 15:17:40,876 INFO  ProcessUtils - Starting Alluxio Proxy.
+2018-07-28 15:17:41,077 INFO  log - Logging initialized @752ms
+2018-07-28 15:17:42,512 INFO  Server - jetty-9.2.z-SNAPSHOT
+2018-07-28 15:17:47,187 INFO  MetricsSystem - Starting sinks with config: {}.
+2018-07-28 15:17:47,225 INFO  ContextHandler - Started o.e.j.w.WebAppContext@3fc9504b{/,file:/Users/anonymous/Research/alluxio-la/core/server/common/src/main/webapp/,AVAILABLE}{/Users/anonymous/Research/alluxio-la/core/server/common/src/main/webapp}
+2018-07-28 15:17:47,233 INFO  ServerConnector - Started ServerConnector@7871122d{HTTP/1.1}{0.0.0.0:39999}
+2018-07-28 15:17:47,233 INFO  Server - Started @6908ms
+2018-07-28 15:17:47,233 INFO  WebServer - Alluxio Proxy Web service started @ /0.0.0.0:39999
+2018-07-28 18:10:13,941 INFO  ConfigurationUtils - Configuration file /Users/anonymous/Research/alluxio-la/conf/alluxio-site.properties loaded.
+2018-07-28 18:10:13,949 INFO  ProcessUtils - Starting Alluxio Proxy.
+2018-07-28 18:10:13,964 INFO  log - Logging initialized @651ms
+2018-07-28 18:10:14,179 INFO  Server - jetty-9.2.z-SNAPSHOT
+2018-07-28 18:10:17,813 INFO  MetricsSystem - Starting sinks with config: {}.
+2018-07-28 18:10:17,880 INFO  ContextHandler - Started o.e.j.w.WebAppContext@3fc9504b{/,file:/Users/anonymous/Research/alluxio-la/core/server/common/src/main/webapp/,AVAILABLE}{/Users/anonymous/Research/alluxio-la/core/server/common/src/main/webapp}
+2018-07-28 18:10:17,890 INFO  ServerConnector - Started ServerConnector@4167418f{HTTP/1.1}{0.0.0.0:39999}
+2018-07-28 18:10:17,890 INFO  Server - Started @4576ms
+2018-07-28 18:10:17,890 INFO  WebServer - Alluxio Proxy Web service started @ /0.0.0.0:39999

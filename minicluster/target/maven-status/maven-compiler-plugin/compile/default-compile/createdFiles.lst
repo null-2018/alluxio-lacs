@@ -1,0 +1,11 @@
+alluxio/master/LocalAlluxioCluster.class
+alluxio/master/AbstractLocalAlluxioCluster$2.class
+alluxio/master/AbstractLocalAlluxioCluster.class
+alluxio/master/ClientPool.class
+alluxio/master/LocalAlluxioMaster$3.class
+alluxio/master/MultiMasterLocalAlluxioCluster.class
+alluxio/master/LocalAlluxioMaster$1.class
+alluxio/master/MultiMasterLocalAlluxioCluster$1.class
+alluxio/master/AbstractLocalAlluxioCluster$1.class
+alluxio/master/LocalAlluxioMaster$2.class
+alluxio/master/LocalAlluxioMaster.class

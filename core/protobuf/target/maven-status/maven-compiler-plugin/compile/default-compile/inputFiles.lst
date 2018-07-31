@@ -1,0 +1,9 @@
+/Users/yyuau/Research/alluxio-la/core/protobuf/src/main/java/alluxio/proto/status/Status.java
+/Users/yyuau/Research/alluxio-la/core/protobuf/src/main/java/alluxio/proto/journal/Journal.java
+/Users/yyuau/Research/alluxio-la/core/protobuf/src/main/java/alluxio/proto/journal/KeyValue.java
+/Users/yyuau/Research/alluxio-la/core/protobuf/src/main/java/alluxio/util/proto/ProtoMessage.java
+/Users/yyuau/Research/alluxio-la/core/protobuf/src/main/java/alluxio/proto/journal/Lineage.java
+/Users/yyuau/Research/alluxio-la/core/protobuf/src/main/java/alluxio/proto/journal/File.java
+/Users/yyuau/Research/alluxio-la/core/protobuf/src/main/java/alluxio/util/proto/ProtoUtils.java
+/Users/yyuau/Research/alluxio-la/core/protobuf/src/main/java/alluxio/proto/journal/Block.java
+/Users/yyuau/Research/alluxio-la/core/protobuf/src/main/java/alluxio/proto/dataserver/Protocol.java

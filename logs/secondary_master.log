@@ -1,0 +1,24 @@
+2018-07-27 23:12:11,788 INFO  ConfigurationUtils - Configuration file /Users/anonymous/Research/alluxio-la/conf/alluxio-site.properties loaded.
+2018-07-27 23:12:11,881 INFO  BlockMasterFactory - Creating alluxio.master.block.BlockMaster 
+2018-07-27 23:12:11,881 INFO  FileSystemMasterFactory - Creating alluxio.master.file.FileSystemMaster 
+2018-07-27 23:12:12,274 INFO  MountTable - Clearing mount table (except the root).
+2018-07-27 23:12:12,277 INFO  MountTable - Mounting /Users/anonymous/underFSStorage at /
+2018-07-27 23:12:12,298 INFO  ProcessUtils - Starting Alluxio secondary master.
+2018-07-28 15:05:53,707 INFO  ConfigurationUtils - Configuration file /Users/anonymous/Research/alluxio-la/conf/alluxio-site.properties loaded.
+2018-07-28 15:05:53,849 INFO  BlockMasterFactory - Creating alluxio.master.block.BlockMaster 
+2018-07-28 15:05:53,849 INFO  FileSystemMasterFactory - Creating alluxio.master.file.FileSystemMaster 
+2018-07-28 15:05:54,390 INFO  MountTable - Clearing mount table (except the root).
+2018-07-28 15:05:54,407 INFO  MountTable - Mounting /Users/anonymous/underFSStorage at /
+2018-07-28 15:05:54,462 INFO  ProcessUtils - Starting Alluxio secondary master.
+2018-07-28 15:17:32,054 INFO  ConfigurationUtils - Configuration file /Users/anonymous/Research/alluxio-la/conf/alluxio-site.properties loaded.
+2018-07-28 15:17:32,182 INFO  BlockMasterFactory - Creating alluxio.master.block.BlockMaster 
+2018-07-28 15:17:32,182 INFO  FileSystemMasterFactory - Creating alluxio.master.file.FileSystemMaster 
+2018-07-28 15:17:32,796 INFO  MountTable - Clearing mount table (except the root).
+2018-07-28 15:17:32,798 INFO  MountTable - Mounting /Users/anonymous/underFSStorage at /
+2018-07-28 15:17:32,857 INFO  ProcessUtils - Starting Alluxio secondary master.
+2018-07-28 18:10:06,360 INFO  ConfigurationUtils - Configuration file /Users/anonymous/Research/alluxio-la/conf/alluxio-site.properties loaded.
+2018-07-28 18:10:06,383 INFO  BlockMasterFactory - Creating alluxio.master.block.BlockMaster 
+2018-07-28 18:10:06,383 INFO  FileSystemMasterFactory - Creating alluxio.master.file.FileSystemMaster 
+2018-07-28 18:10:06,501 INFO  MountTable - Clearing mount table (except the root).
+2018-07-28 18:10:06,503 INFO  MountTable - Mounting /Users/anonymous/underFSStorage at /
+2018-07-28 18:10:06,519 INFO  ProcessUtils - Starting Alluxio secondary master.

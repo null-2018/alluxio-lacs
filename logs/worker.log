@@ -1,0 +1,221 @@
+2018-07-27 23:12:19,095 INFO  ConfigurationUtils - Configuration file /Users/anonymous/Research/alluxio-la/conf/alluxio-site.properties loaded.
+2018-07-27 23:12:19,859 INFO  BlockWorkerFactory - Creating alluxio.worker.block.BlockWorker 
+2018-07-27 23:12:19,859 INFO  FileSystemWorkerFactory - Creating alluxio.worker.file.FileSystemWorker 
+2018-07-27 23:12:20,255 INFO  FileUtils - Folder /Volumes/ramdisk/alluxioworker was created!
+2018-07-27 23:12:20,356 ERROR StorageDir - /Users/anonymous/alluxio/alluxioworker/.tmp_blocks in StorageDir is not a file
+2018-07-27 23:12:20,727 INFO  log - Logging initialized @2075ms
+2018-07-27 23:12:21,412 INFO  ProcessUtils - Starting Alluxio worker.
+2018-07-27 23:12:21,435 INFO  MetricsSystem - Starting sinks with config: {}.
+2018-07-27 23:12:21,437 INFO  AbstractClient - Alluxio client (version 1.6.2-SNAPSHOT) is trying to connect with BlockMasterWorker @ localhost/127.0.0.1:19998
+2018-07-27 23:12:28,791 WARN  AbstractClient - Failed to connect (0) with BlockMasterWorker @ localhost/127.0.0.1:19998: java.net.SocketException: Connection reset
+2018-07-27 23:12:28,842 INFO  AbstractClient - Alluxio client (version 1.6.2-SNAPSHOT) is trying to connect with BlockMasterWorker @ localhost/127.0.0.1:19998
+2018-07-27 23:12:28,851 INFO  AbstractClient - Client registered with BlockMasterWorker @ localhost/127.0.0.1:19998
+2018-07-27 23:12:28,903 INFO  AlluxioWorkerProcess - Started Alluxio worker with id 8341674169037105454
+2018-07-27 23:12:28,903 INFO  AbstractClient - Alluxio client (version 1.6.2-SNAPSHOT) is trying to connect with FileSystemMasterWorker @ localhost/127.0.0.1:19998
+2018-07-27 23:12:28,905 INFO  Server - jetty-9.2.z-SNAPSHOT
+2018-07-27 23:12:28,907 INFO  AbstractClient - Client registered with FileSystemMasterWorker @ localhost/127.0.0.1:19998
+2018-07-27 23:12:28,907 INFO  AbstractClient - Alluxio client (version 1.6.2-SNAPSHOT) is trying to connect with FileSystemMasterWorker @ localhost/127.0.0.1:19998
+2018-07-27 23:12:28,912 INFO  AbstractClient - Client registered with FileSystemMasterWorker @ localhost/127.0.0.1:19998
+2018-07-27 23:12:28,935 INFO  ContextHandler - Started o.e.j.s.ServletContextHandler@27ff5d15{/metrics/json,null,AVAILABLE}
+2018-07-27 23:12:31,861 INFO  ContextHandler - Started o.e.j.w.WebAppContext@3ebff828{/,file:/Users/anonymous/Research/alluxio-la/core/server/common/src/main/webapp/,AVAILABLE}{/Users/anonymous/Research/alluxio-la/core/server/common/src/main/webapp}
+2018-07-27 23:12:31,864 INFO  ServerConnector - Started ServerConnector@7c22d4f{HTTP/1.1}{0.0.0.0:30000}
+2018-07-27 23:12:31,864 INFO  Server - Started @13212ms
+2018-07-27 23:12:31,864 INFO  WebServer - Alluxio worker web service started @ /0.0.0.0:30000
+2018-07-27 23:12:31,864 INFO  AlluxioWorkerProcess - Alluxio worker version 1.6.2-SNAPSHOT started. bindHost=0.0.0.0, connectHost=143.89.76.29, rpcPort=29998, dataPort=29999, webPort=30000
+2018-07-27 23:20:15,877 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/352 was created!
+2018-07-27 23:20:15,952 INFO  AbstractClient - Alluxio client (version 1.6.2-SNAPSHOT) is trying to connect with BlockMasterWorker @ localhost/127.0.0.1:19998
+2018-07-27 23:20:15,954 INFO  AbstractClient - Client registered with BlockMasterWorker @ localhost/127.0.0.1:19998
+2018-07-27 23:20:16,122 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/581 was created!
+2018-07-27 23:20:16,468 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/98 was created!
+2018-07-27 23:20:16,554 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/941 was created!
+2018-07-27 23:20:16,665 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/635 was created!
+2018-07-27 23:20:16,771 INFO  FileUtils - Folder /Volumes/ramdisk/alluxioworker/.tmp_blocks/758 was created!
+2018-07-27 23:20:16,786 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/87 was created!
+2018-07-27 23:20:16,935 INFO  FileUtils - Folder /Volumes/ramdisk/alluxioworker/.tmp_blocks/120 was created!
+2018-07-27 23:20:16,953 INFO  FileUtils - Folder /Volumes/ramdisk/alluxioworker/.tmp_blocks/219 was created!
+2018-07-27 23:20:16,969 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/555 was created!
+2018-07-27 23:20:17,151 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/821 was created!
+2018-07-27 23:20:17,407 INFO  FileUtils - Folder /Volumes/ramdisk/alluxioworker/.tmp_blocks/515 was created!
+2018-07-27 23:20:17,421 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/208 was created!
+2018-07-27 23:20:17,560 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/153 was created!
+2018-07-27 23:20:17,698 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/499 was created!
+2018-07-27 23:20:17,853 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/943 was created!
+2018-07-27 23:20:18,016 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/530 was created!
+2018-07-27 23:20:18,131 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/361 was created!
+2018-07-27 23:20:18,312 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/880 was created!
+2018-07-27 23:20:18,418 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/89 was created!
+2018-07-27 23:20:18,604 INFO  FileUtils - Folder /Volumes/ramdisk/alluxioworker/.tmp_blocks/367 was created!
+2018-07-27 23:20:18,619 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/372 was created!
+2018-07-27 23:20:18,739 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/997 was created!
+2018-07-27 23:20:18,872 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/595 was created!
+2018-07-27 23:20:19,009 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/267 was created!
+2018-07-27 23:20:19,097 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/955 was created!
+2018-07-27 23:20:19,213 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/676 was created!
+2018-07-27 23:20:19,358 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/189 was created!
+2018-07-27 23:20:19,472 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/31 was created!
+2018-07-27 23:20:19,583 INFO  FileUtils - Folder /Volumes/ramdisk/alluxioworker/.tmp_blocks/490 was created!
+2018-07-27 23:20:19,596 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/711 was created!
+2018-07-27 23:20:19,698 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/847 was created!
+2018-07-27 23:20:19,870 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/993 was created!
+2018-07-27 23:20:19,963 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/685 was created!
+2018-07-27 23:20:20,106 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/167 was created!
+2018-07-27 23:20:20,200 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/440 was created!
+2018-07-27 23:20:20,303 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/975 was created!
+2018-07-27 23:20:20,416 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/504 was created!
+2018-07-27 23:20:20,528 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/329 was created!
+2018-07-28 15:06:04,756 INFO  ConfigurationUtils - Configuration file /Users/anonymous/Research/alluxio-la/conf/alluxio-site.properties loaded.
+2018-07-28 15:06:05,966 INFO  BlockWorkerFactory - Creating alluxio.worker.block.BlockWorker 
+2018-07-28 15:06:05,966 INFO  FileSystemWorkerFactory - Creating alluxio.worker.file.FileSystemWorker 
+2018-07-28 15:06:06,762 INFO  FileUtils - Folder /Volumes/ramdisk/alluxioworker was created!
+2018-07-28 15:06:06,896 ERROR StorageDir - /Users/anonymous/alluxio/alluxioworker/.tmp_blocks in StorageDir is not a file
+2018-07-28 15:06:07,926 INFO  log - Logging initialized @3674ms
+2018-07-28 15:06:08,844 INFO  ProcessUtils - Starting Alluxio worker.
+2018-07-28 15:06:08,844 INFO  MetricsSystem - Starting sinks with config: {}.
+2018-07-28 15:06:08,848 INFO  AbstractClient - Alluxio client (version 1.6.2-SNAPSHOT) is trying to connect with BlockMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 15:06:15,207 WARN  AbstractClient - Failed to connect (0) with BlockMasterWorker @ localhost/127.0.0.1:19998: java.net.SocketException: Connection reset
+2018-07-28 15:06:15,260 INFO  AbstractClient - Alluxio client (version 1.6.2-SNAPSHOT) is trying to connect with BlockMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 15:06:15,271 INFO  AbstractClient - Client registered with BlockMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 15:06:15,324 INFO  AlluxioWorkerProcess - Started Alluxio worker with id 2148860661535358444
+2018-07-28 15:06:15,324 INFO  AbstractClient - Alluxio client (version 1.6.2-SNAPSHOT) is trying to connect with FileSystemMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 15:06:15,326 INFO  AbstractClient - Client registered with FileSystemMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 15:06:15,326 INFO  Server - jetty-9.2.z-SNAPSHOT
+2018-07-28 15:06:15,327 INFO  AbstractClient - Alluxio client (version 1.6.2-SNAPSHOT) is trying to connect with FileSystemMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 15:06:15,359 INFO  AbstractClient - Client registered with FileSystemMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 15:06:15,368 INFO  ContextHandler - Started o.e.j.s.ServletContextHandler@27ff5d15{/metrics/json,null,AVAILABLE}
+2018-07-28 15:06:16,067 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/400 was created!
+2018-07-28 15:06:16,122 INFO  AbstractClient - Alluxio client (version 1.6.2-SNAPSHOT) is trying to connect with BlockMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 15:06:16,123 INFO  AbstractClient - Client registered with BlockMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 15:06:16,159 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/327 was created!
+2018-07-28 15:06:16,253 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/506 was created!
+2018-07-28 15:06:16,424 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/629 was created!
+2018-07-28 15:06:16,573 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/908 was created!
+2018-07-28 15:06:16,713 INFO  FileUtils - Folder /Volumes/ramdisk/alluxioworker/.tmp_blocks/796 was created!
+2018-07-28 15:06:16,728 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/786 was created!
+2018-07-28 15:06:16,838 INFO  FileUtils - Folder /Volumes/ramdisk/alluxioworker/.tmp_blocks/224 was created!
+2018-07-28 15:06:16,857 INFO  FileUtils - Folder /Volumes/ramdisk/alluxioworker/.tmp_blocks/560 was created!
+2018-07-28 15:06:16,872 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/420 was created!
+2018-07-28 15:06:16,992 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/301 was created!
+2018-07-28 15:06:17,114 INFO  FileUtils - Folder /Volumes/ramdisk/alluxioworker/.tmp_blocks/688 was created!
+2018-07-28 15:06:17,127 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/500 was created!
+2018-07-28 15:06:17,240 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/308 was created!
+2018-07-28 15:06:17,353 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/680 was created!
+2018-07-28 15:06:17,477 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/409 was created!
+2018-07-28 15:06:17,602 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/594 was created!
+2018-07-28 15:06:17,751 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/647 was created!
+2018-07-28 15:06:17,851 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/49 was created!
+2018-07-28 15:06:17,981 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/367 was created!
+2018-07-28 15:06:18,094 INFO  FileUtils - Folder /Volumes/ramdisk/alluxioworker/.tmp_blocks/49 was created!
+2018-07-28 15:06:18,111 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/460 was created!
+2018-07-28 15:06:18,223 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/679 was created!
+2018-07-28 15:06:18,339 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/527 was created!
+2018-07-28 15:06:18,473 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/653 was created!
+2018-07-28 15:06:18,512 INFO  ContextHandler - Started o.e.j.w.WebAppContext@3ebff828{/,file:/Users/anonymous/Research/alluxio-la/core/server/common/src/main/webapp/,AVAILABLE}{/Users/anonymous/Research/alluxio-la/core/server/common/src/main/webapp}
+2018-07-28 15:06:18,515 INFO  ServerConnector - Started ServerConnector@7c22d4f{HTTP/1.1}{0.0.0.0:30000}
+2018-07-28 15:06:18,515 INFO  Server - Started @14264ms
+2018-07-28 15:06:18,515 INFO  WebServer - Alluxio worker web service started @ /0.0.0.0:30000
+2018-07-28 15:06:18,515 INFO  AlluxioWorkerProcess - Alluxio worker version 1.6.2-SNAPSHOT started. bindHost=0.0.0.0, connectHost=143.89.76.29, rpcPort=29998, dataPort=29999, webPort=30000
+2018-07-28 15:06:18,600 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/797 was created!
+2018-07-28 15:06:18,827 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/564 was created!
+2018-07-28 15:06:18,896 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/673 was created!
+2018-07-28 15:06:19,076 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/310 was created!
+2018-07-28 15:06:19,214 INFO  FileUtils - Folder /Volumes/ramdisk/alluxioworker/.tmp_blocks/451 was created!
+2018-07-28 15:06:19,226 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/502 was created!
+2018-07-28 15:06:19,334 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/724 was created!
+2018-07-28 15:06:19,441 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/471 was created!
+2018-07-28 15:06:19,563 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/85 was created!
+2018-07-28 15:06:19,663 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/755 was created!
+2018-07-28 15:06:19,777 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/315 was created!
+2018-07-28 15:06:19,879 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/998 was created!
+2018-07-28 15:06:20,004 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/316 was created!
+2018-07-28 15:06:20,105 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/6 was created!
+2018-07-28 15:06:20,219 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/213 was created!
+2018-07-28 15:17:41,039 INFO  ConfigurationUtils - Configuration file /Users/anonymous/Research/alluxio-la/conf/alluxio-site.properties loaded.
+2018-07-28 15:17:41,774 INFO  BlockWorkerFactory - Creating alluxio.worker.block.BlockWorker 
+2018-07-28 15:17:41,774 INFO  FileSystemWorkerFactory - Creating alluxio.worker.file.FileSystemWorker 
+2018-07-28 15:17:42,186 INFO  FileUtils - Folder /Volumes/ramdisk/alluxioworker was created!
+2018-07-28 15:17:42,243 ERROR StorageDir - /Users/anonymous/alluxio/alluxioworker/.tmp_blocks in StorageDir is not a file
+2018-07-28 15:17:42,471 INFO  log - Logging initialized @2151ms
+2018-07-28 15:17:43,400 INFO  ProcessUtils - Starting Alluxio worker.
+2018-07-28 15:17:43,425 INFO  MetricsSystem - Starting sinks with config: {}.
+2018-07-28 15:17:43,427 INFO  AbstractClient - Alluxio client (version 1.6.2-SNAPSHOT) is trying to connect with BlockMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 15:17:50,429 WARN  AbstractClient - Failed to connect (0) with BlockMasterWorker @ localhost/127.0.0.1:19998: java.net.SocketException: Connection reset
+2018-07-28 15:17:50,480 INFO  AbstractClient - Alluxio client (version 1.6.2-SNAPSHOT) is trying to connect with BlockMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 15:17:50,488 INFO  AbstractClient - Client registered with BlockMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 15:17:50,547 INFO  AlluxioWorkerProcess - Started Alluxio worker with id 1525055155793524865
+2018-07-28 15:17:50,547 INFO  AbstractClient - Alluxio client (version 1.6.2-SNAPSHOT) is trying to connect with FileSystemMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 15:17:50,549 INFO  Server - jetty-9.2.z-SNAPSHOT
+2018-07-28 15:17:50,550 INFO  AbstractClient - Client registered with FileSystemMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 15:17:50,550 INFO  AbstractClient - Alluxio client (version 1.6.2-SNAPSHOT) is trying to connect with FileSystemMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 15:17:50,553 INFO  AbstractClient - Client registered with FileSystemMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 15:17:50,590 INFO  ContextHandler - Started o.e.j.s.ServletContextHandler@649bec2e{/metrics/json,null,AVAILABLE}
+2018-07-28 15:17:53,645 INFO  ContextHandler - Started o.e.j.w.WebAppContext@33352f32{/,file:/Users/anonymous/Research/alluxio-la/core/server/common/src/main/webapp/,AVAILABLE}{/Users/anonymous/Research/alluxio-la/core/server/common/src/main/webapp}
+2018-07-28 15:17:53,648 INFO  ServerConnector - Started ServerConnector@60bdf15d{HTTP/1.1}{0.0.0.0:30000}
+2018-07-28 15:17:53,648 INFO  Server - Started @13329ms
+2018-07-28 15:17:53,648 INFO  WebServer - Alluxio worker web service started @ /0.0.0.0:30000
+2018-07-28 15:17:53,648 INFO  AlluxioWorkerProcess - Alluxio worker version 1.6.2-SNAPSHOT started. bindHost=0.0.0.0, connectHost=143.89.76.29, rpcPort=29998, dataPort=29999, webPort=30000
+2018-07-28 15:18:16,258 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/830 was created!
+2018-07-28 15:18:16,364 INFO  AbstractClient - Alluxio client (version 1.6.2-SNAPSHOT) is trying to connect with BlockMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 15:18:16,365 INFO  AbstractClient - Client registered with BlockMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 15:18:16,404 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/847 was created!
+2018-07-28 15:18:16,534 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/612 was created!
+2018-07-28 15:18:16,745 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/257 was created!
+2018-07-28 15:18:16,817 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/744 was created!
+2018-07-28 15:18:16,933 INFO  FileUtils - Folder /Volumes/ramdisk/alluxioworker/.tmp_blocks/748 was created!
+2018-07-28 15:18:16,956 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/4 was created!
+2018-07-28 15:18:17,070 INFO  FileUtils - Folder /Volumes/ramdisk/alluxioworker/.tmp_blocks/555 was created!
+2018-07-28 15:18:17,087 INFO  FileUtils - Folder /Volumes/ramdisk/alluxioworker/.tmp_blocks/89 was created!
+2018-07-28 15:18:17,115 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/488 was created!
+2018-07-28 15:18:17,206 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/512 was created!
+2018-07-28 15:18:17,312 INFO  FileUtils - Folder /Volumes/ramdisk/alluxioworker/.tmp_blocks/817 was created!
+2018-07-28 15:18:17,329 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/798 was created!
+2018-07-28 15:18:17,515 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/3 was created!
+2018-07-28 15:18:17,718 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/388 was created!
+2018-07-28 15:18:17,822 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/494 was created!
+2018-07-28 15:18:17,948 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/671 was created!
+2018-07-28 15:18:18,154 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/70 was created!
+2018-07-28 15:18:18,353 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/308 was created!
+2018-07-28 15:18:18,471 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/254 was created!
+2018-07-28 15:18:18,615 INFO  FileUtils - Folder /Volumes/ramdisk/alluxioworker/.tmp_blocks/690 was created!
+2018-07-28 15:18:18,631 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/46 was created!
+2018-07-28 15:18:18,796 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/212 was created!
+2018-07-28 15:18:18,911 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/999 was created!
+2018-07-28 15:18:19,034 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/681 was created!
+2018-07-28 15:18:19,248 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/990 was created!
+2018-07-28 15:18:19,368 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/423 was created!
+2018-07-28 15:18:19,487 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/59 was created!
+2018-07-28 15:18:19,633 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/143 was created!
+2018-07-28 15:18:19,818 INFO  FileUtils - Folder /Volumes/ramdisk/alluxioworker/.tmp_blocks/410 was created!
+2018-07-28 15:18:19,831 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/274 was created!
+2018-07-28 15:18:19,948 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/99 was created!
+2018-07-28 15:18:20,058 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/279 was created!
+2018-07-28 15:18:20,227 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/785 was created!
+2018-07-28 15:18:20,380 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/64 was created!
+2018-07-28 15:18:20,464 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/408 was created!
+2018-07-28 15:18:20,621 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/944 was created!
+2018-07-28 15:18:20,749 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/186 was created!
+2018-07-28 15:18:20,869 INFO  FileUtils - Folder /Users/anonymous/alluxio/alluxioworker/.tmp_blocks/478 was created!
+2018-07-28 18:10:13,871 INFO  ConfigurationUtils - Configuration file /Users/anonymous/Research/alluxio-la/conf/alluxio-site.properties loaded.
+2018-07-28 18:10:14,267 INFO  BlockWorkerFactory - Creating alluxio.worker.block.BlockWorker 
+2018-07-28 18:10:14,267 INFO  FileSystemWorkerFactory - Creating alluxio.worker.file.FileSystemWorker 
+2018-07-28 18:10:14,379 INFO  FileUtils - Folder /Volumes/ramdisk/alluxioworker was created!
+2018-07-28 18:10:14,403 ERROR StorageDir - /Users/anonymous/alluxio/alluxioworker/.tmp_blocks in StorageDir is not a file
+2018-07-28 18:10:14,750 INFO  log - Logging initialized @1437ms
+2018-07-28 18:10:15,026 INFO  ProcessUtils - Starting Alluxio worker.
+2018-07-28 18:10:15,027 INFO  MetricsSystem - Starting sinks with config: {}.
+2018-07-28 18:10:15,028 INFO  AbstractClient - Alluxio client (version 1.6.2-SNAPSHOT) is trying to connect with BlockMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 18:10:23,661 WARN  AbstractClient - Failed to connect (0) with BlockMasterWorker @ localhost/127.0.0.1:19998: java.net.SocketException: Connection reset
+2018-07-28 18:10:23,717 INFO  AbstractClient - Alluxio client (version 1.6.2-SNAPSHOT) is trying to connect with BlockMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 18:10:23,726 INFO  AbstractClient - Client registered with BlockMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 18:10:23,779 INFO  AlluxioWorkerProcess - Started Alluxio worker with id 7002002687286413721
+2018-07-28 18:10:23,779 INFO  AbstractClient - Alluxio client (version 1.6.2-SNAPSHOT) is trying to connect with FileSystemMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 18:10:23,781 INFO  AbstractClient - Client registered with FileSystemMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 18:10:23,781 INFO  Server - jetty-9.2.z-SNAPSHOT
+2018-07-28 18:10:23,782 INFO  AbstractClient - Alluxio client (version 1.6.2-SNAPSHOT) is trying to connect with FileSystemMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 18:10:23,785 INFO  AbstractClient - Client registered with FileSystemMasterWorker @ localhost/127.0.0.1:19998
+2018-07-28 18:10:23,813 INFO  ContextHandler - Started o.e.j.s.ServletContextHandler@1613674b{/metrics/json,null,AVAILABLE}
+2018-07-28 18:10:26,817 INFO  ContextHandler - Started o.e.j.w.WebAppContext@2b58f754{/,file:/Users/anonymous/Research/alluxio-la/core/server/common/src/main/webapp/,AVAILABLE}{/Users/anonymous/Research/alluxio-la/core/server/common/src/main/webapp}
+2018-07-28 18:10:26,820 INFO  ServerConnector - Started ServerConnector@464649c{HTTP/1.1}{0.0.0.0:30000}
+2018-07-28 18:10:26,820 INFO  Server - Started @13507ms
+2018-07-28 18:10:26,820 INFO  WebServer - Alluxio worker web service started @ /0.0.0.0:30000
+2018-07-28 18:10:26,821 INFO  AlluxioWorkerProcess - Alluxio worker version 1.6.2-SNAPSHOT started. bindHost=0.0.0.0, connectHost=143.89.76.29, rpcPort=29998, dataPort=29999, webPort=30000
+2018-07-28 22:00:14,330 WARN  SleepingTimer - Worker FileSystemMaster Sync last execution took 1299 ms. Longer than the interval 1000
